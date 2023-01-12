@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashedsarder13" alt="rashedsarder13" /></a> </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashedsarder13&" alt="rashedsarder13" /></p>
+
 <!-- - 🔭 I’m currently working on [Netflix Clone Project](https://github.com/rashedsarder13/Netflix-Clone-with-React-Redux-Toolkit-Nodejs-MongoDB)
 
 - 🌱 I’m currently learning **.Net Core RestFul API, .NET GraphQL, NodeJS**
@@ -19,7 +21,7 @@
  -->
 - 📫 How to reach me **rashedsarder13@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CM8cMHLNyblBo9IkynXtxSJXCeFIil6x/view](https://drive.google.com/file/d/1CM8cMHLNyblBo9IkynXtxSJXCeFIil6x/view)
+- 📄 Know about my experiences [View Resume](https://drive.google.com/file/d/1CM8cMHLNyblBo9IkynXtxSJXCeFIil6x/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,5 +38,3 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashedsarder13&show_icons=true&locale=en&layout=compact" alt="rashedsarder13" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashedsarder13&show_icons=true&locale=en" alt="rashedsarder13" /></p> -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashedsarder13&" alt="rashedsarder13" /></p>
