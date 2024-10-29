@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Rashed Sarder</b></h1>
+<h1 align="center">🟢<b>Hi, I'm Rashed Sarder</b>🟢</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=1000&color=CDF730&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;I+Am+A+Software+Engineer+with+5%2B+years+of+expertise;in+fullstack+application+development.;React.js,+Next.js,+.NET,+Node.js;Cloud+solutions+(Azure,+Vercel,+Firebase);API+design+(REST,+GraphQL);Database+management+(MS+SQL+Server,+MongoDB);Software+scalability+%26+optimization;End-to-end+software+delivery.;Contact+me+to+develop+your+custom+app."<3"></a>
 </p>
