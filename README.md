@@ -13,7 +13,6 @@
 
    <p align="center">
           <a href="https://github.com/rashedsarder13/" align="center" justify="center">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rashedsarder13&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=rashedsarder13&theme=gruvbox&hide_border=true" />
           </a>
        </p>
